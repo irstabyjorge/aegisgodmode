@@ -1,0 +1,285 @@
+{
+  "commit": "f0b31b12041f4ba323a3f49cd0409e6cafb3828e",
+  "commits": [
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T11:01:31-08:00",
+      "sha": "f0b31b12041f4ba323a3f49cd0409e6cafb3828e",
+      "subject": "Install AEGIS GitHub IP SHIELD provenance workflow (#1)"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T01:59:40-07:00",
+      "sha": "1cbe6150975a436900a03221009eb0463409bc7d",
+      "subject": "Update contribution guidelines"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T01:59:37-07:00",
+      "sha": "b66a1ddd62724a3d9ddb5969e123a76421aa56de",
+      "subject": "Update security policy"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T01:59:33-07:00",
+      "sha": "6d2062dfa74fd007ab9d77b2ad3028d945597d98",
+      "subject": "Update to dual MIT/Commercial license"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-28T01:59:30-07:00",
+      "sha": "a3e245896023928ff2b59c66ed9a9ae345fe5d84",
+      "subject": "Add premium commercial license agreement"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-27T22:52:43-07:00",
+      "sha": "ef4a15aa0fe628a407da8e19c022f44a2fe232ab",
+      "subject": "Remove test file"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-27T22:52:34-07:00",
+      "sha": "05c1f2bf4801e2ca1ef39da425069898639ae5cf",
+      "subject": "test"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-27T22:42:48-07:00",
+      "sha": "0899e9a702d06d03edfc41b494382dd1a0a9026f",
+      "subject": "Add contribution guidelines with dual-license terms"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-27T22:40:15-07:00",
+      "sha": "28d8f254b1be3b6f19e77d5cb544cc5ac8a4348d",
+      "subject": "Add security vulnerability reporting policy"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-27T22:33:37-07:00",
+      "sha": "f177e0deacd9a117f6d30ef27e59efb1ac6320da",
+      "subject": "Add MIT (Non-Commercial) License"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-04-27T22:29:46-07:00",
+      "sha": "cce27567d69bfae89bf19b2e82e9e34b5c30b38d",
+      "subject": "Add GitHub Sponsors funding configuration"
+    },
+    {
+      "author_email_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "author_name_declared": "cloudflare[bot]",
+      "authored_at_declared": "2025-09-29T17:53:43Z",
+      "sha": "1765670f5767253e59df3203a04199c97905962e",
+      "subject": "source repo import"
+    }
+  ],
+  "file_count_recorded": 29,
+  "file_inventory_truncated_at_25000": false,
+  "files": [
+    {
+      "git_blob_oid": "c3128a897c8caa792d60807714a72e96abb96392",
+      "mode": "100644",
+      "path": ".eslintrc.cjs",
+      "sha256": "3ca60bd467fc001e7377be8ae5392ef00d3fbf6b2f6169743fe32209f92ac85a"
+    },
+    {
+      "git_blob_oid": "fdcc2d40816281ba40bf442a571b9dfb6d110c0c",
+      "mode": "100644",
+      "path": ".github/FUNDING.yml",
+      "sha256": "4724e0acb77b28c33aec89cdbe2c48092752ba625c6df50b518a2565bbc01076"
+    },
+    {
+      "git_blob_oid": "496523ebf8a2f8179732701a82e626efb6977e8c",
+      "mode": "100644",
+      "path": ".github/workflows/aegis-ip-shield.yml",
+      "sha256": "6b128bd094d276f1cbe06adb086ac00a7489b6131663092ec8ffe077d54ac56b"
+    },
+    {
+      "git_blob_oid": "38d1587b4c285a382cf566f98f97141ffcf05811",
+      "mode": "100644",
+      "path": ".gitignore",
+      "sha256": "4c8bcea5903d0c2192390d5cbb016ef5253a16d7d73ba0e7b1c37e941bf0c5b7"
+    },
+    {
+      "git_blob_oid": "6b6a651bc6c1aee0b27231c4603f11c3c947ec9e",
+      "mode": "100644",
+      "path": "COMMERCIAL_LICENSE.md",
+      "sha256": "948c655a1953ef76d190b83dc2fd60ce46452d640cfe8b1921cadc541ea76089"
+    },
+    {
+      "git_blob_oid": "010204986a65e5f8529d4f461131ab0a02d41fee",
+      "mode": "100644",
+      "path": "CONTRIBUTING.md",
+      "sha256": "c57b3def307bee2398d18967988fcf056802ea3b6fa8356eb4d7d18285831db6"
+    },
+    {
+      "git_blob_oid": "d56e845d57a3c9309b05fdc09605173471b25d54",
+      "mode": "100644",
+      "path": "LICENSE",
+      "sha256": "171c287e6a54fd2de0a036e4d2e3af968fe32b9ff8417e88359b6a2175c916eb"
+    },
+    {
+      "git_blob_oid": "d055d8f9f57f8625c63e291749419706367a0e6a",
+      "mode": "100644",
+      "path": "README.md",
+      "sha256": "1c99734b43f777347aae3bab82105115d973c944e2bb7329b60cece0ca01476f"
+    },
+    {
+      "git_blob_oid": "7f23f7cd4bf0337b6de7801ad993e31df7392ea6",
+      "mode": "100644",
+      "path": "SECURITY.md",
+      "sha256": "3a264b2371ae58bffa1223250b1eefc28cfd21cf231009057be3b4b014dbc1ad"
+    },
+    {
+      "git_blob_oid": "612913289ec4a0741a4900fe5833c2d02908d4d1",
+      "mode": "100644",
+      "path": "app/entry.client.tsx",
+      "sha256": "93529385225a5a09fc21b660216e091221dbbab62f0ea4ce8a9ce8eebfe087b3"
+    },
+    {
+      "git_blob_oid": "e25cfe4e5321d81e39ca5897d19da50db7ce6513",
+      "mode": "100644",
+      "path": "app/entry.server.tsx",
+      "sha256": "2856b8fb1829008e80304e73b676a8de1e32e27614ec850422557ff7db8338c5"
+    },
+    {
+      "git_blob_oid": "20aa6c7cb5fd3499d2065504c8ca07b9c1134d3e",
+      "mode": "100644",
+      "path": "app/root.tsx",
+      "sha256": "c3dbcf0376df628e2e8d123b839b9a678b6976eba967701c73d77727bbe9b8c4"
+    },
+    {
+      "git_blob_oid": "afdf49c446e5662b42366471de9fc7f5db6d85f7",
+      "mode": "100644",
+      "path": "app/routes/_index.tsx",
+      "sha256": "6931e59eb2505f5959f116f83e3e2466fd600d5b7b70c50afeb460aca90745a1"
+    },
+    {
+      "git_blob_oid": "303fe158fcf9df859d4ef17a9b5fbc8a621aa6b3",
+      "mode": "100644",
+      "path": "app/tailwind.css",
+      "sha256": "4d060ee4fee798a3785ac0fd36f14b9367f2fbdeee6fc6d9bb8cd9b0e8206263"
+    },
+    {
+      "git_blob_oid": "61ef9f20140713ff8aa713b0334418376d896c40",
+      "mode": "100644",
+      "path": "docs/IP_SHIELD_GITHUB.md",
+      "sha256": "33dcbb120bd146be225a62b6b764dc76f603d7bae4274ba840bddca679aa0001"
+    },
+    {
+      "git_blob_oid": "ee718146edb6d98cda8f6d672fd584bf66acac32",
+      "mode": "100644",
+      "path": "load-context.ts",
+      "sha256": "8d93c592cf6ee9b173137711469c67b7b8fb223c9b3720005b475210b860e7d9"
+    },
+    {
+      "git_blob_oid": "0ab3b166410b6ce948cd4cffc68aa200abf44382",
+      "mode": "100644",
+      "path": "package-lock.json",
+      "sha256": "8344db058619dfffce52e196fc54865f3e5652ca7cadbeac444b91e10af8f731"
+    },
+    {
+      "git_blob_oid": "ad8af14b4e3d72478fd4bdf787e96b1875a978c2",
+      "mode": "100644",
+      "path": "package.json",
+      "sha256": "cde9bbf66d029965710d7dc387b05220c51ecf1a568f8d43e51fa1b7a7140636"
+    },
+    {
+      "git_blob_oid": "2aa7205d4b402a1bdfbe07110c61df920b370066",
+      "mode": "100644",
+      "path": "postcss.config.js",
+      "sha256": "e32657baf631d7c5f4dc67b4b2ee0ec8e7d5b3c41860e09cddce7c0377cd80bc"
+    },
+    {
+      "git_blob_oid": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644",
+      "path": "public/.assetsignore",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "git_blob_oid": "8830cf6821b354114848e6354889b8ecf6d2bc61",
+      "mode": "100644",
+      "path": "public/favicon.ico",
+      "sha256": "39ff6fa1450c106b5bbc2b7368d888e70f6e799df8f117fccee2a469926b4417"
+    },
+    {
+      "git_blob_oid": "b24c7aee3a86dad7eb334ba6fba94e5b18b84215",
+      "mode": "100644",
+      "path": "public/logo-dark.png",
+      "sha256": "fca77f61f1415c03a0526572686e28cc262e4954e2d8a63dc9906df8ce92d32a"
+    },
+    {
+      "git_blob_oid": "4490ae7930752afa15329f66e3a2dfef7de2418a",
+      "mode": "100644",
+      "path": "public/logo-light.png",
+      "sha256": "67fef2438dc92571497e3a1efddf263e45afb9ce2eacf714099e629088263e67"
+    },
+    {
+      "git_blob_oid": "74391ee274acfa34956a6503c6cc44b8ca159078",
+      "mode": "100644",
+      "path": "server.ts",
+      "sha256": "33808ace54c8def6b7052a382d786edeb311834b4fa3dfb39b07b5fc27902b03"
+    },
+    {
+      "git_blob_oid": "5f06ad4ba5a18a89ad73211279beceb7547e9912",
+      "mode": "100644",
+      "path": "tailwind.config.ts",
+      "sha256": "71bfa41bd6a062b69f2fa20119611f818b9c2d246b53811a029ded99dca6024f"
+    },
+    {
+      "git_blob_oid": "964fa4bea871e59c032dad0321464297c1ef6431",
+      "mode": "100644",
+      "path": "tsconfig.json",
+      "sha256": "4de7651f7796c36d2a67e0aa14301fd490ce1ff81b388fb9d7e8142c291dd949"
+    },
+    {
+      "git_blob_oid": "03df12c5626d214852ee478b0322724ea3bcc9b2",
+      "mode": "100644",
+      "path": "vite.config.ts",
+      "sha256": "e2d05a167235487b6a45ff8bd0dce08494ac23706e5c000443dc6902776ce879"
+    },
+    {
+      "git_blob_oid": "d846b6ec914ddb6c64395aae9262c7bae486a571",
+      "mode": "100644",
+      "path": "worker-configuration.d.ts",
+      "sha256": "26e268392d48d76487b1cba7cc10a9832ffe5d4422889ff8b18ba08267d7d127"
+    },
+    {
+      "git_blob_oid": "e31c8268075142ba0e337d8f86eb41d88633af42",
+      "mode": "100644",
+      "path": "wrangler.json",
+      "sha256": "4752e26e02bd383ccb59558d48ca6e0e38b0648a11a24645f5e39ba720dbcf79"
+    }
+  ],
+  "generated_at_utc_runner_clock": "2026-11-13T19:02:25.530523+00:00",
+  "limits": [
+    "Git author and timestamp fields are declared metadata, not verified identity or trusted time.",
+    "Hashes identify recorded bytes; they do not prove authorship, originality, ownership or infringement.",
+    "The report contains paths and hashes, not source-file contents.",
+    "The runner clock is not a trusted timestamp authority.",
+    "Third-party and joint contributions retain applicable rights and licenses.",
+    "The ledger branch is versioned evidence, not immutable storage.",
+    "Only this repository and triggered refs are covered."
+  ],
+  "manifest_type": "AEGIS_GITHUB_IP_SHIELD_PROVENANCE",
+  "manifest_version": "1.0",
+  "ref": "refs/heads/main",
+  "ref_name": "main",
+  "repository": "irstabyjorge/aegisgodmode",
+  "tree": "c2237c5ad92ae834f78ad89515d75b621bf1558e",
+  "workflow_run_attempt": "1",
+  "workflow_run_id": "43488233223"
+}
